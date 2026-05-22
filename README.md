@@ -1,2 +1,2 @@
 # Cybersecurity-Portfolio-Esteban-Solano
-System Engineer | Comptia Security + | SOC Analyst | Blue Team Junior Analyst
+Here yo ucan find information related to the BTL1 Certiication teh Blue Team
