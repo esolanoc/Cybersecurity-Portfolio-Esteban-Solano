@@ -6,4 +6,4 @@ System Engineer | IAM Senior Associate |  Comptia Security + |  Blue Team Junior
 ## Contacto
 
 🔗 [LinkedIn](https://www.linkedin.com/in/esolanoc)  
-💻 [BTLO-Completed-Investigations]([https://github.com/tuusuario](https://github.com/esolanoc/BTLO-Completed-Investigations))
+💻 [BTLO-Completed-Investigations](https://github.com/esolanoc/BTLO-Completed-Investigations)
