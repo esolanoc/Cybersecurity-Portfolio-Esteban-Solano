@@ -1,2 +1,2 @@
 # Cybersecurity-Portfolio-Esteban-Solano
-Here yo ucan find information related to the BTL1 Certiication of the Blue Team
+Here you can find information related to the BTL1 Certification of the Blue Team
