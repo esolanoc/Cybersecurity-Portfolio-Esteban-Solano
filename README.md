@@ -5,5 +5,5 @@ System Engineer | IAM Senior Associate |  Comptia Security + |  Blue Team Junior
 [Texto visible](https://url-del-link)
 ## Contacto
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+🔗 [LinkedIn](www.linkedin.com/in/esolanoc)  
 💻 [GitHub](https://github.com/tuusuario)
