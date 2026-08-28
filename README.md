@@ -1,7 +1,4 @@
-#🛡️ Cybersecurity Portafolio Esteban Solano Calderon
-
-
-🛡️ Portafolio SOC — Hans Soto González
+#🛡️ Cybersecurity Portafolio Esteban Solano Calderón
 
 System Engineer | IAM Senior Associate |  Comptia Security + |  Blue Team Junior Analyst
 
