@@ -1,8 +1,7 @@
-# Cybersecurity-Portfolio-Esteban-Solano
-Here you can find information related to the BTL1 Certification of the Blue Team
+#🛡️ Cybersecurity Portafolio Esteban Solano Calderon
+
 
 🛡️ Portafolio SOC — Hans Soto González
 
-    Analista SOC L1 en Formación · Ingeniería en Ciberseguridad · IPLACEX
+System Engineer | IAM Senior Associate |  Comptia Security + |  Blue Team Junior Analyst
 
-LinkedIn GitHub GitHub Pentest
